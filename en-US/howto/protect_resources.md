@@ -8,7 +8,7 @@ name: Protect Resources
 
 When some documents are internal use only, you can enable protect mode for them.
 
-What does protect mode do?
+What does protect mode do ?
 
 1. Authentication based on HTTP Basic Authorization.
 2. User defines a list of authorized users along with their password.
