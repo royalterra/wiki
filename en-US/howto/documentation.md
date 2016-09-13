@@ -2,7 +2,7 @@
 name: Setup Documentation
 ---
 
-# Setup Documentation TEST
+# Setup Documentation TEST 1
 
 Every Peach documentation repository should contain two parts of information:
 
