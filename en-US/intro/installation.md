@@ -2,7 +2,7 @@
 name: Installation
 ---
 
-# Installation
+# Installation TEST
 
 ## From Binary
 
