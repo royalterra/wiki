@@ -2,7 +2,7 @@
 name: Sync with Webhook
 ---
 
-# Sync with Webhook
+# Sync with Webhook ala ya ta
 
 Obviously, you don't want to login to your server and update documentation manully every time you make a change, especially when change is very small.
 
