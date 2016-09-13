@@ -4,7 +4,7 @@ name: FAQs
 
 # FAQs
 
-### How do I use reverse proxy with NGINX?
+### How do I use HHVM with BlaBlaNet?
 
 Here is an example of NGINX config section, but values can be different from your situation:
 
