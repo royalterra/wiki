@@ -1,5 +1,8 @@
+---
+name: installation
+---
+# installation
 
-# BlaBlaNet-Social-Network
 BaBlaNet Social Network is a Fork of Hubzilla with new improvements and advance add-ons 
 You can Make one account or test the NET in BlaBlaNet Social Network Working in https://blablanet.com
 
