@@ -1,7 +1,7 @@
 
 # BlaBlaNet-Social-Network
 BaBlaNet Social Network is a Fork of Hubzilla with new improvements and advance add-ons 
-You can BlaBlaNet Social Network Working in https://blablanet.com
+You can Make one account or test the NET in BlaBlaNet Social Network Working in https://blablanet.com
 
 1. Requirements
     - Apache with mod-rewrite enabled and "AllowOverride All" so you can use a 
